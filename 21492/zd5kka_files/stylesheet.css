@@ -1,0 +1,96 @@
+.a {
+    display: block;
+    font-family: "easypub";
+    font-size: 1.2em;
+    line-height: 125%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0
+    }
+.calibre {
+    display: block;
+    font-family: "easypub";
+    font-size: 0.83333em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    orphans: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    widows: 0
+    }
+.calibre1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre2 {
+    color: #000;
+    text-decoration: none
+    }
+.titletoc {
+    background-color: #C1CCC0;
+    border-bottom-color: #586357;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color: #586357;
+    border-left-style: solid;
+    border-left-width: 20px;
+    border-right-color: #586357;
+    border-right-style: double;
+    border-right-width: 5px;
+    border-top-color: #586357;
+    border-top-style: none;
+    border-top-width: 0;
+    display: block;
+    font-size: 1.55em;
+    font-weight: bold;
+    line-height: 115%;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 45px;
+    text-align: justify
+    }
+.toc {
+    display: block;
+    line-height: 130%;
+    margin-left: 16%;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.tocl {
+    border-bottom-color: #939E92;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color: #939E92;
+    border-left-style: solid;
+    border-left-width: 10px;
+    border-right-color: #939E92;
+    border-right-style: double;
+    border-right-width: 2px;
+    border-top-color: #939E92;
+    border-top-style: none;
+    border-top-width: 0;
+    display: block;
+    font-size: 1.55em;
+    line-height: 1.2;
+    margin-left: -20px;
+    margin-top: 0.5em
+    }

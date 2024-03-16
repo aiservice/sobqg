@@ -1,0 +1,8 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "easypub";
+    src: url(res:///system/fonts/DroidSansFallback.ttf), url(res:///ebook/fonts/../../system/fonts/DroidSansFallback.ttf)
+    }
