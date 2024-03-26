@@ -1,0 +1,60 @@
+/*————————————————————内容简介————————————————————*/
+
+body.introduction {
+  padding: 5%;
+  border-style: double;
+  border-color: rgba(83, 83, 83, 0.5);
+  border-width: 0.4em;
+}
+
+div.cover {
+  margin: 0 0 1em 0;
+  text-align: center;
+  text-indent: 0;
+  duokan-text-indent: 0;
+  width: 100%;
+}
+
+img.cover {
+  width: 40%;
+  box-shadow: 3px 3px 3px #535353;
+  margin: 0 0 0.5em 0;
+}
+
+span.book-name {
+  font-family: "楷体", sans-serif;
+  color: #8A2BE2;
+
+}
+
+span.author {
+  font-family: "小标宋", sans-serif;
+}
+
+h1.introduction-title {
+  margin: 0.3em 0 1em 0;
+  text-align: left;
+  text-indent: 0;
+  duokan-text-indent: 0;
+  font-size: 110%;
+  color: black;
+font-family: "DK-XIHEITI", "黑体", sans-serif;
+}
+
+h1.introduction-title span {
+  background-color: ;
+  padding: 0.4em 2em 0.2em 0.4em;
+}
+
+div.book-introduction p {
+  font-family: "DK-XIHEITI", "黑体", sans-serif;
+}
+
+.vertxt {
+    font-family: "DK-FANGSONG",仿宋,"fs","fangsong",sans-serif;
+	line-height: 100%;
+    font-size: 85%;
+    text-indent: 0em;
+    text-align: left;
+    duokan-text-indent: 0em;
+}
